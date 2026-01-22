@@ -3,9 +3,7 @@
 ### data-source-02.tf
 
 ```sh
-  provider "aws" {
-  }
-  
+ 
   # 2. Reads a file from the local filesystem.
   data "local_file" "foo" {
     filename = "${path.module}/foo.bar"
