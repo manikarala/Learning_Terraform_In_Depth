@@ -15,6 +15,8 @@
 
 ```sh
 ## Output
+$ terraform plan -input=false
+╷
 │ Error: No value for required variable
 │
 │   on main.tf line 14:
