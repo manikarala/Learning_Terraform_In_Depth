@@ -57,7 +57,7 @@ variable "example_set" {
 ```
 
 ### terraform console 
-## Note that sets are unordered, so the order may appear alphabetical but is not guaranteed.
+### Note that sets are unordered, so the order may appear alphabetical but is not guaranteed.
 ```sh
 > var.example_set
 toset([
