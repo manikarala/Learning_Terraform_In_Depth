@@ -65,8 +65,8 @@ Content for def goes here.
 ## 📝 Testing
 
 *   **abc**
-    *   Sub-option 1
-    *   Sub-option 2
+    -   Sub-option 1
+    -  Sub-option 2
 *   **def**
     *   Sub-option A
     *   Sub-option B
